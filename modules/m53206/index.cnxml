@@ -1,0 +1,295 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Horizontal Alignment Test</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m53206</md:content-id>
+  <md:title>Horizontal Alignment Test</md:title>
+  <md:abstract/>
+  <md:uuid>c70fbc56-9b70-4791-ac14-10244eba7992</md:uuid>
+</metadata>
+
+<content>
+  <example id="eip-236"><exercise id="eip-id1167084372789"><problem id="fs-id1092783">
+<title>Finding the Trigonometric Functions of an Angle </title>
+<para id="fs-id1555007">Find<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mi>sin</m:mi><m:mtext> </m:mtext><m:mi>t</m:mi><m:mo>,</m:mo><m:mi>cos</m:mi><m:mtext> </m:mtext><m:mi>t</m:mi><m:mo>,</m:mo><m:mi>tan</m:mi><m:mtext> </m:mtext><m:mi>t</m:mi><m:mo>,</m:mo><m:mi>sec</m:mi><m:mtext> </m:mtext><m:mi>t</m:mi><m:mo>,</m:mo><m:mi>csc</m:mi><m:mtext> </m:mtext><m:mi>t</m:mi><m:mo>,</m:mo></m:mrow>
+</m:math>and<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mi>cot</m:mi><m:mtext> </m:mtext><m:mi>t</m:mi><m:mo>.</m:mo><m:mtext> </m:mtext></m:mrow>
+</m:math>when<m:math>
+<m:mrow>
+<m:mtext> </m:mtext><m:mi>t</m:mi><m:mo>=</m:mo><m:mfrac>
+<m:mi>π</m:mi>
+<m:mn>6</m:mn>
+</m:mfrac>
+<m:mo>.</m:mo>
+</m:mrow>
+</m:math>
+</para></problem>
+<solution id="fs-id1430845">
+<para id="fs-id712530">We have previously used the properties of equilateral triangles to demonstrate that<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mi>sin</m:mi><m:mtext> </m:mtext><m:mfrac>
+   <m:mi>π</m:mi>
+   <m:mn>6</m:mn>
+  </m:mfrac>
+  <m:mo>=</m:mo><m:mfrac>
+   <m:mn>1</m:mn>
+   <m:mn>2</m:mn>
+  </m:mfrac>
+  <m:mtext> </m:mtext></m:mrow>
+</m:math>and<m:math>
+ <m:mrow>
+  <m:mtext> </m:mtext><m:mi>cos</m:mi><m:mtext> </m:mtext><m:mfrac>
+   <m:mi>π</m:mi>
+   <m:mn>6</m:mn>
+  </m:mfrac>
+  <m:mo>=</m:mo><m:mfrac>
+   <m:mrow>
+    <m:msqrt>
+     <m:mn>3</m:mn>
+    </m:msqrt>
+    </m:mrow>
+   <m:mn>2</m:mn>
+  </m:mfrac>
+  <m:mo>.</m:mo></m:mrow>
+</m:math>We can use these values and the definitions of tangent, secant, cosecant, and cotangent as functions of sine and cosine to find the remaining function values.</para><equation id="fs-id1702453" class="unnumbered"><m:math display="block">
+      <m:mtable columnalign="left">
+       <m:mtr columnalign="left">
+        <m:mtd columnalign="left">
+          <m:mi>tan</m:mi><m:mspace width="2pt"/><m:mfrac>
+           <m:mi>π</m:mi>
+           <m:mn>6</m:mn>
+          </m:mfrac></m:mtd>
+<m:mtd>
+          <m:mo>=</m:mo></m:mtd>
+<m:mtd><m:mfrac>
+            <m:mi>sin</m:mi><m:mspace width="2pt"/><m:mfrac>
+             <m:mi>π</m:mi>
+             <m:mn>6</m:mn>
+            </m:mfrac>
+
+            <m:mi>cos</m:mi><m:mspace width="2pt"/><m:mfrac>
+             <m:mi>π</m:mi>
+             <m:mn>6</m:mn>
+            </m:mfrac>
+          </m:mfrac>
+        </m:mtd>
+       </m:mtr>
+       <m:mtr columnalign="left">
+<m:mtd/>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+        <m:mtd columnalign="left"><m:mfrac>
+            <m:mfrac>
+             <m:mn>1</m:mn>
+             <m:mn>2</m:mn>
+            </m:mfrac>
+           <m:mrow>
+            <m:mfrac>
+             <m:mrow>
+              <m:msqrt>
+               <m:mn>3</m:mn>
+              </m:msqrt>
+              </m:mrow>
+             <m:mn>2</m:mn>
+            </m:mfrac>
+            </m:mrow>
+          </m:mfrac>
+          <m:mo>=</m:mo><m:mfrac>
+           <m:mn>1</m:mn>
+           <m:mrow>
+            <m:msqrt>
+             <m:mn>3</m:mn>
+            </m:msqrt>
+            </m:mrow>
+          </m:mfrac>
+          <m:mo>=</m:mo><m:mfrac>
+           <m:mrow>
+            <m:msqrt>
+             <m:mn>3</m:mn>
+            </m:msqrt>
+            </m:mrow>
+           <m:mn>3</m:mn>
+          </m:mfrac>
+        </m:mtd>
+       </m:mtr>
+       
+      </m:mtable>
+</m:math>
+</equation><equation id="fs-id2055222" class="unnumbered"><m:math>
+ <m:mrow>
+  <m:mtable columnalign="left">
+   <m:mtr columnalign="left">
+    <m:mtd columnalign="left">
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr columnalign="left">
+    <m:mtd columnalign="left">
+     <m:mrow>
+      <m:mtable columnalign="left">
+       <m:mtr columnalign="left">
+        <m:mtd columnalign="left">
+         <m:mrow>
+          <m:mi>sec</m:mi><m:mtext> </m:mtext><m:mfrac>
+           <m:mi>π</m:mi>
+           <m:mn>6</m:mn>
+          </m:mfrac>
+          <m:mo>=</m:mo><m:mfrac>
+           <m:mn>1</m:mn>
+           <m:mrow>
+            <m:mi>cos</m:mi><m:mtext> </m:mtext><m:mfrac>
+             <m:mi>π</m:mi>
+             <m:mn>6</m:mn>
+            </m:mfrac>
+            </m:mrow>
+          </m:mfrac>
+          </m:mrow>
+        </m:mtd>
+       </m:mtr>
+       <m:mtr columnalign="left">
+        <m:mtd columnalign="left">
+         <m:mrow>
+          <m:mtext>        </m:mtext><m:mo>=</m:mo><m:mfrac>
+           <m:mn>1</m:mn>
+           <m:mrow>
+            <m:mfrac>
+             <m:mrow>
+              <m:msqrt>
+               <m:mn>3</m:mn>
+              </m:msqrt>
+              </m:mrow>
+             <m:mn>2</m:mn>
+            </m:mfrac>
+            </m:mrow>
+          </m:mfrac>
+          <m:mo>=</m:mo><m:mfrac>
+           <m:mn>2</m:mn>
+           <m:mrow>
+            <m:msqrt>
+             <m:mn>3</m:mn>
+            </m:msqrt>
+            </m:mrow>
+          </m:mfrac>
+          <m:mo>=</m:mo><m:mfrac>
+           <m:mrow>
+            <m:mn>2</m:mn><m:msqrt>
+             <m:mn>3</m:mn>
+            </m:msqrt>
+            </m:mrow>
+           <m:mn>3</m:mn>
+          </m:mfrac>
+          </m:mrow>
+        </m:mtd>
+       </m:mtr>
+       
+      </m:mtable></m:mrow>
+    </m:mtd>
+   </m:mtr>
+   
+  </m:mtable></m:mrow>
+</m:math>
+</equation><equation id="fs-id1610970" class="unnumbered"><m:math>
+ <m:mrow>
+  <m:mi>csc</m:mi><m:mtext> </m:mtext><m:mfrac>
+   <m:mi>π</m:mi>
+   <m:mn>6</m:mn>
+  </m:mfrac>
+  <m:mo>=</m:mo><m:mfrac>
+   <m:mn>1</m:mn>
+   <m:mrow>
+    <m:mi>sin</m:mi><m:mtext> </m:mtext><m:mfrac>
+     <m:mi>π</m:mi>
+     <m:mn>6</m:mn>
+    </m:mfrac>
+    </m:mrow>
+  </m:mfrac>
+  <m:mo>=</m:mo><m:mfrac>
+   <m:mn>1</m:mn>
+   <m:mrow>
+    <m:mfrac>
+     <m:mn>1</m:mn>
+     <m:mn>2</m:mn>
+    </m:mfrac>
+    </m:mrow>
+  </m:mfrac>
+  <m:mo>=</m:mo><m:mn>2</m:mn></m:mrow>
+</m:math>
+</equation><equation id="fs-id1571270" class="unnumbered"><m:math display="block">
+ <m:mrow>
+  <m:mtable columnalign="left">
+   <m:mtr columnalign="left">
+    <m:mtd columnalign="left">
+     <m:mrow/>
+    </m:mtd>
+   </m:mtr>
+   <m:mtr columnalign="left">
+    <m:mtd columnalign="left">
+     <m:mrow>
+      <m:mtable columnalign="left">
+       <m:mtr columnalign="left">
+        <m:mtd columnalign="left">
+         <m:mrow>
+          <m:mi>cot</m:mi><m:mtext> </m:mtext><m:mfrac>
+           <m:mi>π</m:mi>
+           <m:mn>6</m:mn>
+          </m:mfrac>
+          <m:mo>=</m:mo><m:mfrac>
+           <m:mrow>
+            <m:mi>cos</m:mi><m:mtext> </m:mtext><m:mfrac>
+             <m:mi>π</m:mi>
+             <m:mn>6</m:mn>
+            </m:mfrac>
+            </m:mrow>
+           <m:mrow>
+            <m:mi>sin</m:mi><m:mtext> </m:mtext><m:mfrac>
+             <m:mi>π</m:mi>
+             <m:mn>6</m:mn>
+            </m:mfrac>
+            </m:mrow>
+          </m:mfrac>
+          </m:mrow>
+        </m:mtd>
+       </m:mtr>
+       <m:mtr columnalign="left">
+        <m:mtd columnalign="left">
+         <m:mrow>
+          <m:mtext>        </m:mtext><m:mo>=</m:mo><m:mfrac>
+           <m:mrow>
+            <m:mfrac>
+             <m:mrow>
+              <m:msqrt>
+               <m:mn>3</m:mn>
+              </m:msqrt>
+              </m:mrow>
+             <m:mn>2</m:mn>
+            </m:mfrac>
+            </m:mrow>
+           <m:mrow>
+            <m:mfrac>
+             <m:mn>1</m:mn>
+             <m:mn>2</m:mn>
+            </m:mfrac>
+            </m:mrow>
+          </m:mfrac>
+          <m:mo>=</m:mo><m:msqrt>
+           <m:mn>3</m:mn>
+          </m:msqrt>
+          </m:mrow>
+        </m:mtd>
+       </m:mtr>
+       
+      </m:mtable></m:mrow>
+    </m:mtd>
+   </m:mtr>
+   
+  </m:mtable></m:mrow>
+</m:math>
+</equation></solution>
+</exercise></example><para id="delete_me">
+     <!-- Insert module text here -->
+  </para>
+</content>
+
+</document>
