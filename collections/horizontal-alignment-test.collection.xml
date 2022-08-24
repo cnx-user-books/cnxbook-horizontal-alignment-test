@@ -1,43 +1,19 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="OpenStax CAT">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11763</md:content-id>
-  <md:title>Horizontal Alignment Test</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>e7814982-2560-454e-a20a-dad83b8d049f</md:uuid>
-<md:slug>horizontal-alignment-test</md:slug>
-</metadata>
-
+    <md:content-id>col11763</md:content-id>
+    <md:title>Horizontal Alignment Test</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>e7814982-2560-454e-a20a-dad83b8d049f</md:uuid>
+    <md:slug>horizontal-alignment-test</md:slug>
+  </metadata>
   <col:content>
-    
-      
-        
-      <col:subcollection>
-        <md:title>Test Chapter</md:title>
-        
-        
-        
-
-        <col:content>
-          
-    
-      <col:module document="m53206"/>
-        
-      
-    
-        </col:content>
-      </col:subcollection>
-    
+    <col:subcollection>
+      <md:title>Test Chapter</md:title>
+      <col:content>
+        <col:module document="m53206"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
